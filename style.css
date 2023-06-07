@@ -3,3 +3,54 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  color:red;
+  text-align:center;
+}
+nav { text-align: center;}
+
+a { padding-left: 10px;background-color: bisque;
+padding-right: 10px;background-color: bisque;}
+
+.contentmain {
+  text-align: center;
+  width: 900px;
+    padding: 10px;
+  margin-left:auto;
+  margin-right:auto;
+  }
+
+  figure {
+    text-align: center;
+  }
+  figcaption {
+    font-size: smaller;  
+  }
+
+
+  .Contacts {
+  float: none;
+  margin: auto;
+  }
+
+  .Correspondence {
+    float: left;
+    margin: auto;
+  }
+
+  .Links {
+    float: left;
+    margin: auto;
+  }
+
+  .Follow {
+float: left;
+margin: auto;
+  }*/
+
+footer {
+  list-style: none;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
